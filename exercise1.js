@@ -1,3 +1,4 @@
+// I Gusti Ngurah Abi Praja Andika
 function isArithmeticProgression(numbers) {
   if (numbers.length < 2) {
     return false;
@@ -19,3 +20,5 @@ console.log(isArithmeticProgression([2, 4, 6, 12, 24]));
 console.log(isArithmeticProgression([2, 4, 6, 8]));
 console.log(isArithmeticProgression([2, 4, 6, 18, 54]));
 console.log(isArithmeticProgression([1, 2, 3, 4, 7, 9]));
+
+

@@ -1,3 +1,4 @@
+// I Gusti Ngurah Abi Praja Andika
 function threeStepsAB(text) {
   const charA = [];
   const charB = [];
